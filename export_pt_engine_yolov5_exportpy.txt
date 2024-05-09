@@ -1,0 +1,1 @@
+python3.8 export.py --weights epoch2275_best_SGD_square.pt  --imgsz 1101 --batch 1 --include engine --device 0 --batch 1 --simplify
